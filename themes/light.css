@@ -1,0 +1,55 @@
+
+
+body {
+  background: #ffffff;
+}
+
+#header {
+  color: #1a1a1a;
+}
+
+#left-wing {
+  color: #1a1a1a;
+}
+
+#right-wing {
+  color: #1a1a1a;
+}
+
+#typing-area, #theme-area {
+  background: #FBFBF9;
+}
+
+#text-display {
+  color: #A9A9A9;
+}
+
+#input-field {
+  background: #ffffff;
+  color: #1a1a1a;
+}
+
+#input-field.wrong {
+  background: rgba(198, 38, 46, 0.3);
+}
+
+#redo-button {
+  background: #e3e2e2;
+  color: #1a1a1a;
+}
+
+#footer {
+  color: #1a1a1a;
+}
+
+.highlight {
+  color: #656464;
+}
+
+.correct {
+  color: #1a1a1a;
+}
+
+.wrong {
+  color: #c6262e;
+}

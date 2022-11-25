@@ -1,0 +1,18 @@
+{
+    "9009":{
+        "background":"#b6b09a",
+        "color":"#2e2f33"
+    },
+    "light":{
+        "background":"#fafafa",
+        "color":"#1a1a1a"
+    },
+    "dark":{
+        "background":"#1a1a1a",
+        "color":"#fafafa"
+    },
+    "olivia":{
+        "background":"#363434",
+        "color":"#e8c4b8"
+    }
+}
