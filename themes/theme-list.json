@@ -7,6 +7,10 @@
         "background":"#fafafa",
         "color":"#1a1a1a"
     },
+    "notion":{
+        "background":"#f3faff",
+        "color":"#2B547E"
+    },
     "dark":{
         "background":"#1a1a1a",
         "color":"#fafafa"
